@@ -3,7 +3,7 @@
   }
   
   body {
-    font-family: Arial;
+    font-family: Arial; 
     margin: 0;
   }
   
@@ -13,7 +13,10 @@
     background: #244a71;
     color: #ede5e5;
   }
-  
+
+  ul {
+    text-align: 
+  }
   
 
 
@@ -45,18 +48,20 @@
     flex-direction: column;
 }
 
-.row {
-    padding: 13px;
+
+
+.Horiseon-Refactor , .Time-Magazine , .Instagram , .LinkedIN  {
+    padding: 15px;
     border: 1px solid black;
     
 }
+
 
 .row img {
   padding: 20px;
   border: 1px solid black;
   
 }
-
 
 
 
