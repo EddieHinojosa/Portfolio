@@ -8,14 +8,15 @@
   }
   
   header {
-    padding: 30px;
+    padding: 7px;
     text-align: left;
     background: #4072a4;
     color: #ede5e5;
   }
 /*the guiding links inside the page*/
   ul {
-    text-align: right
+    text-align: right;
+    padding-right: 20pt;
   }
   
 
