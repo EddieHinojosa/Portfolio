@@ -10,15 +10,22 @@
   header {
     padding: 30px;
     text-align: left;
-    background: #244a71;
+    background: #4072a4;
     color: #ede5e5;
   }
 
   ul {
-    text-align: 
+    text-align: right
   }
   
 
+  li {
+    text-align: center;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    background-color: beige;
+  }
+  
 
   .project {
     display: flex;
