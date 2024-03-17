@@ -13,12 +13,13 @@
     background: #4072a4;
     color: #ede5e5;
   }
-
+/*the guiding links inside the page*/
   ul {
     text-align: right
   }
   
 
+  /*'li' for the "return to top" section */
   li {
     text-align: center;
     padding-top: 10pt;
@@ -62,6 +63,11 @@
     padding: 15px;
     border: 1px solid black;
     
+}
+
+img {
+  padding-right: 10pt;
+  padding-left: 5pt;
 }
 
 
