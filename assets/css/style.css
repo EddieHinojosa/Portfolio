@@ -36,7 +36,8 @@
     word-wrap: normal;
 /*    background-color: lightblue;  */
 /*removed colors to change to gradient in the .project section*/
-    
+    padding-left: 20pt;
+    padding-right: 20pt;
 }
 
 .right-column {
@@ -57,11 +58,7 @@
 }
 
 
-.row img {
-  padding: 20px;
-  border: 1px solid black;
-  
-}
+
 
 
 
