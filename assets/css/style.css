@@ -8,7 +8,7 @@
   }
   
   header {
-    padding: 60px;
+    padding: 30px;
     text-align: left;
     background: #244a71;
     color: #ede5e5;
@@ -24,26 +24,38 @@
 .project {
   display: grid;
   grid-template-columns: 30% 70%;
+    background: linear-gradient(to right, #87c3b3 0% 29% , #aaaff0 33% 100%);
 }
+  
 
 .left-column {
-    flex: 1;
-    background-color: lightblue;
+    flex: 2;
+    word-wrap: normal;
+/*    background-color: lightblue;  */
+/*removed colors to change to gradient in the .project section*/
     
 }
 
 .right-column {
-    flex: 1;
-    background-color: rgb(238, 186, 144);
+    flex: 2;
+    word-wrap: normal;
+/*    background-color: rgb(238, 186, 144); */ 
+/*removed colors to change to gradient in the .project section*/
     display: flex;
     flex-direction: column;
 }
 
 .row {
-    padding: 15px;
+    padding: 13px;
     border: 1px solid black;
+    
 }
 
+.row img {
+  padding: 20px;
+  border: 1px solid black;
+  
+}
 
 
 
