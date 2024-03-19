@@ -9,7 +9,7 @@ Below I will be providing corresponding links.
 
 
 GitHub Repo:
-git@github.com:EddieHinojosa/Portfolio.git
+[git@github.com:EddieHinojosa/Portfolio.git](https://eddiehinojosa.github.io/Portfolio/)
 
 live page via Github Server:
 https://eddiehinojosa.github.io/Portfolio/
