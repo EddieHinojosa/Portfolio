@@ -19,6 +19,12 @@
 
   }
   
+  .top .ProfileImage {
+    flex: 2;
+    word-wrap: normal;
+    display: flex;
+    flex-direction: column;
+  }
 
 
 .top .headerInfo {
@@ -39,6 +45,12 @@
   color: #b15fa9;
 }
 
+.project .right-column img {
+      flex: 2;
+    word-wrap: normal;
+    display: flex;
+    flex-direction: column;
+}
 
 
 /*the guiding links inside the page*/
@@ -89,19 +101,20 @@
 
 
 
-.Horiseon-Refactor , .Time-Magazine , .Instagram , .LinkedIN  {
+
+
+
+.Horiseon-Refactor , .Time-Magazine , .Instagram , .LinkedIN {
     padding: 15px;
     border: 1px solid black;
     
 }
 
-img {
-  padding-right: 10pt;
-  padding-left: 5pt;
-  padding-bottom: 2pt;
+.right-column img {
+  width: 95%;
+  height: 100%;
+  flex-shrink: inherit;
 }
-
-
 
 
 
